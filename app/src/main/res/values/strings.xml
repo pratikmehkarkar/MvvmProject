@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MvvmProject</string>
+
+    <string name="heading_login">Architect your app with</string>
+    <string name="mvvm_textview_login">MVVM</string>
+    <string name="email_hint">testme@gmail.com</string>
+    <string name="password_hint">Password</string>
+    <string name="txt_forgot_password">Forget Password?</string>
+    <string name="txt_sign_in">Sign In</string>
+    <string name="txt_login_bottom">Don\'t have an account?\nSign Up Here</string>
+    <string name="txt_sign_username">Pratik Mehkarkar</string>
+    <string name="confirm_password_hint">Confirm Password</string>
 </resources>
