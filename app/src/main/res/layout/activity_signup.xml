@@ -123,7 +123,7 @@
                     android:id="@+id/button_sign_up"
                     android:layout_gravity="center_horizontal"
                     android:textAllCaps="false"
-                    android:text="@string/txt_sign_in"
+                    android:text="Sign In"
                     android:layout_width="150dp"
                     android:layout_height="wrap_content"/>
 
@@ -131,15 +131,15 @@
 
             <TextView
                 android:id="@+id/text_view_login"
-                android:layout_marginTop="12dp"
-                android:textColor="@color/colorPrimary"
-                android:layout_centerHorizontal="true"
-                android:textAppearance="@style/TextAppearance.AppCompat.Large"
-                android:layout_below="@id/linearLayout2"
-                android:textAlignment="center"
-                android:text="@string/txt_login_bottom"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:layout_below="@id/linearLayout2"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="12dp"
+                android:text="Don\'t have an account?\nSign Up Here"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/colorPrimary" />
 
         </RelativeLayout>
 
